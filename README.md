@@ -11,7 +11,7 @@ mkdir Project
 ### Clone the repository into the directory
 
 ```
-git clone
+git clone https://github.com/Yash985/Assignment_Submission_Portal.git
 ```
 
 ### cd into the Project directory
