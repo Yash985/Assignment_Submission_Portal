@@ -35,13 +35,13 @@ PORT=
 ```
 
 ### To start the server with node run the following command
-
+##### server starts on localhost:3000
 ```
 npm run server
 ```
 ### OR
 ### To start the server with nodemon run the following command
-
+##### server starts on localhost:3000
 ```
 npm run start
 ```
